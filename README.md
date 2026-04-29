@@ -2,9 +2,6 @@
 
 > A machine learning project that forecasts gold prices in both **USD** and **PKR** through 2028, using historical market data, S&P 500 index trends, and the USD-to-PKR exchange rate.
 
-**Authors:** Muhammad Salman, Fazeel Muhammad  
-**Instructor:** Sir Atif Luqman
-
 ---
 
 ## 📌 Project Overview
